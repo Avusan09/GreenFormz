@@ -1,0 +1,9 @@
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\bin\Debug\netcoreapp2.0\greenFormz.Infrastructure.deps.json
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\bin\Debug\netcoreapp2.0\greenFormz.Infrastructure.dll
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\bin\Debug\netcoreapp2.0\greenFormz.Infrastructure.pdb
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.AssemblyInfoInputs.cache
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.AssemblyInfo.cs
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.dll
+c:\users\bipin gautam\source\repos\greenFormz\greenFormz.Infrastructure\obj\Debug\netcoreapp2.0\greenFormz.Infrastructure.pdb
